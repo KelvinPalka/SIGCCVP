@@ -19,8 +19,8 @@ Desenvolver um sistema que centralize e otimize os processos de gestão em empre
 ## 🔧 Tecnologias Utilizadas
 - **C# (.NET / WPF)**  
 - **XAML**  
-- **Banco de Dados Relacional** (MySQL ou SQL Server)  
-- **Arquitetura baseada em camadas** (opcional: MVVM)  
+- **Banco de Dados Relacional** (MySQL)  
+- **Arquitetura baseada em camadas** (MVVM)  
 
 ## 📌 Status do Projeto
 ✅ Em desenvolvimento  
